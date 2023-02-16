@@ -42,7 +42,7 @@ I'm Amanda, a software engineer and former architect (of irl buildings).
 
 ## Projects:
 
-<a href="https://github.com/Capstone-Bookworm" target="_blank" rel="noopener noreferrer">Bookworm</a> - Book swapping (Group) <br />
+<a href="https://bookworm-fe.vercel.app/" target="_blank" rel="noopener noreferrer">Bookworm</a> - Book swapping (Group) <br />
 <a href="https://bik-n-bru.herokuapp.com/" target="_blank" rel="noopener noreferrer">Bik-n-Bru</a> - Strava activities -> beers (Group) <br />
 <a href="https://github.com/amikaross/lunch_and_learn" target="_blank" rel="noopener noreferrer">Lunch and Learn</a> - Facts and recipes (Solo) <br />
 

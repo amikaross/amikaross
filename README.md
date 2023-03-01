@@ -2,8 +2,8 @@
 
 I'm Amanda, a software engineer and former architect (of irl buildings). 
 
-- 🔭 I’m currently working on the final mvp for a project with a team of six other devs: [Bookworm]
-- 🌱 I’m currently learning Python, FastAPI
+- 🔭 I’m currently working on a backend service using Python and FastAPI. 
+- 🌱 I’m currently learning Javascript and Typescript.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my experience at Turing Software School and transitioning from architectural design to software engineering.
 - 😄 Pronouns: she/her/hers

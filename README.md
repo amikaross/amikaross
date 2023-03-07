@@ -7,6 +7,7 @@ I'm Amanda, a software engineer and former architect (of irl buildings).
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my experience at Turing Software School and transitioning from architectural design to software engineering.
 - 😄 Pronouns: she/her/hers
+- 📚 Currently reading: Practical Object Oriented Design in Ruby by Sandi Metz
 - ⚡ Fun fact: I am from the big island of hawaii (but don't know how to surf)
 
 ## Connect with me 🤝🤝

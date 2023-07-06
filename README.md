@@ -2,7 +2,7 @@
 
 I'm Amanda, a software engineer and former architect (of irl buildings). 
 
-- 🔭 I’m currently working on an app called DateNight with a rails backend and js/react frontend. 
+- 🔭 I’m currently working on a Rails app called DateNight. 
 - 🌱 I’m currently learning Javascript, Typescript, and React.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my experience at Turing Software School and transitioning from architectural design to software engineering.

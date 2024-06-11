@@ -2,7 +2,7 @@
 
 I'm Amanda, a software engineer and former architect (of irl buildings). 
 
-- 🔭 I’m currently working for a automotive communications software company called Volie. 
+- 🔭 I’m currently working for an automotive communications software company called Volie. 
 - 🌱 I’m currently learning about computer systems through the resources available on <a href="https://csprimer.com/courses/" target="_blank" rel="noopener noreferrer">CS Primer</a>.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my experience at Turing Software School and transitioning from architectural design to software engineering.

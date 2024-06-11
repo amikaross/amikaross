@@ -26,10 +26,11 @@ I'm Amanda, a software engineer and former architect (of irl buildings).
 ## Skills and Technologies
 
 <!-- https://simpleicons.org/ -->
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=7b95ad&color=141422)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=7b95ad&color=141422)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100?style=for-the-badge&logo=PostgreSQL&logoColor=7b95ad&color=141422)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=7b95ad&color=141422)
 ![Ruby on Rails](	https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=7b95ad&color=141422)
-![Postgres](https://img.shields.io/badge/Postgres-100?style=for-the-badge&logo=postgresql&logoColor=7b95ad&color=141422)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100?style=for-the-badge&logo=PostgreSQL&logoColor=7b95ad&color=141422)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&&logoColor=7b95ad&color=141422)
 ![Graphql](https://img.shields.io/badge/Graphql-100?style=for-the-badge&logo=graphql&logoColor=7b95ad&color=141422)
 ![HTML5](https://img.shields.io/badge/HTML5-100?style=for-the-badge&logo=HTML5&logoColor=7b95ad&color=141422)
